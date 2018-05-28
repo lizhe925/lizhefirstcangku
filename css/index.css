@@ -1,0 +1,319 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+
+.header{
+	height: 173px;
+	background-color: #eeeeef;
+}
+.logo{
+	text-align: center;
+	height: 125px;
+}
+.logo img{
+	margin-top: 30px;
+}
+.nav{
+	width: 700px;
+	height: 45px;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 23px;
+}
+.nav li{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	font-size: 14px;
+	background: url(../img/line.png) no-repeat right center;
+}
+.nav li a{
+	display: block;
+	height: 42px;
+	border-bottom: 3px solid #1e50ae;
+}
+.nav li:last-child{
+	background: none;
+}
+.banner{
+	height: 405px;
+	background: url(../img/bg2.png) no-repeat center center;
+}
+.serve{
+	width: 1200px;
+	height: 805px;
+	margin:0 auto;
+}
+.serve li{
+	float: left;
+}
+.title{
+	height: 116px;
+	text-align: center;
+}
+.title h3{
+	font-size: 34px;
+	margin-top: 60px;
+	font-weight: normal;
+}
+.title p{
+	font-size: 28px;
+	margin-top: 10px;
+}
+.工商代理{
+	width: 300px;
+	height: 420px;
+}
+.imgandword{
+	text-align: center;
+	font-size: 16px;
+	margin-top: 20px;
+}
+.imgandword p{
+	margin-top: 20px;
+}
+.工商代理 li{
+	margin-top: 16px;
+	margin-left: 114px;
+	float: left;
+	font-size: 14px;
+	color: #909090;
+}
+.财务代理{
+	width: 300px;
+	height: 420px;
+	
+}
+.财务代理 li{
+	margin-top: 16px;
+	margin-left: 114px;
+	float: left;
+	font-size: 14px;
+	color: #909090;
+}
+
+.资质服务{
+	width: 300px;
+	height: 420px;
+	
+}
+.资质服务 li{
+	margin-top: 16px;
+	margin-left: 114px;
+	float: left;
+	font-size: 14px;
+	color: #909090;
+}
+.特色服务 {
+	width: 300px;
+	height: 420px;
+	
+}
+.特色服务 li{
+	margin-top: 16px;
+	margin-left: 114px;
+	float: left;
+	font-size: 14px;
+	color: #909090;
+}
+.imgandword1{
+	text-align: center;
+	font-size: 16px;
+	margin-top: 20px;
+}
+.imgandword1 p{
+	margin-top: 17px;
+}
+.公积金社保代理{
+	width: 300px;
+	height: 240px;
+}
+
+.办公室租赁{
+	width: 300px;
+	height: 240px;
+}
+
+.营业执照转让{
+	width: 300px;
+	height: 240px;
+}
+
+.法律服务{
+	width: 300px;
+	height: 240px;
+}
+.solution{
+	width: 100%;
+	height: 712px;
+	background: url(../img/bg3.png) no-repeat center center;
+}
+.box{
+	width: 1200px;
+	height: 712px;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+}
+.box li{
+	float: left;
+}
+.h{
+	height: 44px;
+}
+.jjfa{
+	height: 80px;
+	text-align: center;
+}
+.jjfa h3{
+	line-height: 80px;
+	font-size: 34px;
+	font-weight: normal;
+}
+.box p{
+	font-size: 23px;
+	margin-top: 0px;
+}
+.bg{
+	height: 385px; 
+	width: 300px;
+	margin-top: 75px;
+}
+.box kuang{
+	font-size: 20px;
+	color: #fff;
+	width: 500px;
+	height: 200px;
+	background: none;
+	border: 2px solid #fff;
+	border-radius: 50px;
+	margin-bottom: 100px;
+
+}
+.zuixinzixun{
+	width: 100%;
+	height: 908px;
+}
+.hang1{
+	height: 37px;
+
+}
+.hang2{
+	height: 80px;
+	text-align: center;
+}
+.hang2 h3{
+	line-height: 80px;
+	font-size: 34px;
+	font-weight: normal;
+}
+.english{
+	font-size: 28px;
+	text-align: center;
+}
+.zhu{
+	float: left;
+	width: 600px;
+	height: 382px;
+	margin-top: 41px;
+}
+.ytz{
+	float: right;
+	width: 600px;
+	height: 382px;
+	margin-top: 41px;
+}
+.little title{
+	margin-top: 42px;
+	margin-left: 0px;
+
+}
+.little title h1{
+	margin-right: 420px;
+	line-height: 55px;
+	float: left;
+}
+.little title p{
+	margin-right: 265px;
+	margin-bottom: 25px;
+	float: left;
+}
+.neirong{
+	margin-top: 25px 27px 0 68px;
+}
+.neirong p{
+	font-family: 微软雅黑 Light;
+	font-size: 14px;
+	color: #969696; 
+	line-height: 2em;
+}
+.more{
+	margin-top: 33px;
+	margin-left: 27px;
+	width: 138px;
+	height: 39px;
+	border: solid 1px #1141a3;
+	border-radius: 20px;
+}
+.more p{
+	padding-left: 34px;
+	padding-top: 8px;
+	font-family: 微软雅黑 Regular;
+	font-size: 16px;
+	color: #1141a3;
+}
+.why{
+	float: left;
+	width: 600px;
+	height: 355px;
+}
+.why p{
+	line-height: 2.8em;
+	margin-left: 100px; 
+	margin-right: 20px;
+	font-family: 微软雅黑 Regular;
+	font-size: 13px;
+	color: #797979;
+	border-bottom:dashed #797979 1px;
+}
+.zzrz{
+	width: 100%;
+	height: 100px;
+	background: url(../img/zzrzyong.png)no-repeat center center ;
+}
+.zzrz2{
+	margin: 0 auto;
+	width: 1200px;
+	height: 120px;
+
+}
+.zzrz li{
+	float: left;
+}
+
+.zzrz1 img{
+	margin-top: 30px;
+	margin-left: 55px;
+	float: left;
+}
+.zzrz li{
+	margin-bottom: 10px;
+	margin-left: 25px;
+	float: left;
+}
+.zzrzline1{
+	margin-top: 25px;
+	font-size: 19px;
+}
+.zzrzline2{
+	font-size: 13px;
+}
+	
